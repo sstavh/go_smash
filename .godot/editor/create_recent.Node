@@ -1,0 +1,8 @@
+VBoxContainer
+MarginContainer
+Camera2D
+TileMap
+ParallaxBackground
+AnimatedSprite2D
+CollisionShape2D
+CharacterBody2D
