@@ -308,7 +308,7 @@ shape = SubResource("CapsuleShape2D_l206q")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(2, -13)
 sprite_frames = SubResource("SpriteFrames_s4nto")
-animation = &"Fall"
+animation = &"Idle"
 autoplay = "Idle"
 
 [node name="Camera2D" type="Camera2D" parent="."]
