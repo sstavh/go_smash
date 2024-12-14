@@ -299,7 +299,7 @@ animations = [{
 "speed": 12.0
 }]
 
-[node name="Fred" type="CharacterBody2D"]
+[node name="Fred" type="CharacterBody2D" groups=["Player"]]
 script = ExtResource("1_rskiu")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
