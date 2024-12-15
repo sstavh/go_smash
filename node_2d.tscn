@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://csg18pfjwup80"]
 
-[ext_resource type="Script" path="res://node_2d.gd" id="1_m4bii"]
-[ext_resource type="PackedScene" uid="uid://bx0upqfkc2cjq" path="res://parallax_background.tscn" id="2_vnpuk"]
+[ext_resource type="Script" path="res://progectScript/menu/node_2d.gd" id="1_m4bii"]
+[ext_resource type="PackedScene" uid="uid://bx0upqfkc2cjq" path="res://progektBg/parallax_background.tscn" id="2_vnpuk"]
 
 [node name="menu" type="Node2D"]
 process_mode = 3

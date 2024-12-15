@@ -1,6 +1,6 @@
 [gd_scene load_steps=43 format=3 uid="uid://cxtj12hbn7sv2"]
 
-[ext_resource type="Texture2D" uid="uid://thpusgtq0lil" path="res://oak_woods_v1.0/character/char_blue.png" id="1_hxijt"]
+[ext_resource type="Texture2D" uid="uid://thpusgtq0lil" path="res://img/oak_woods_v1.0/character/char_blue.png" id="1_hxijt"]
 [ext_resource type="Script" path="res://Player/fred.gd" id="1_rskiu"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_l206q"]
