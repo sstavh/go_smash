@@ -1,13 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1734243906
+::res://::1734248325
 dg_end.tscn::PackedScene::1526425694118547157::1734206642::0::1::::<><>::
 door_home.tscn::PackedScene::2036829722308741718::1734214499::0::1::::<><>::uid://b58bstlea3km7::::res://img/homePak/Door01.png<>res://progectScript/winterHome/doorScript.gd
 home_winter.tscn::PackedScene::1391298644688734216::1734212606::0::1::::<><>::uid://b4jbh4ku4r2ic::::res://img/Winter Forest/Enviroment.png
-level_1.tscn::PackedScene::60819580545800361::1734206601::0::1::::<><>::uid://cxtj12hbn7sv2::::res://Player/fred.tscn<>res://progectScript/winterHome/animated_sprite_2d.gd<>uid://bcd3ha26vpvpp::::res://img/homePak/bedroom  furniture.png<>uid://ca0yp11d2q70o::::res://img/oak_woods_v1.0/oak_woods_tileset.png<>uid://bigo7hv7kfcog::::res://img/simpletablechairs_00/Table/Exports/default_chair_sprites.png<>uid://csmknbgr6ybnr::::res://progektBg/homebg.tscn<>uid://ciurs6l3pjpg1::::res://img/simpletablechairs_00/Table/kamin.png<>uid://dakdpnw3wfyk3::::res://img/homePak/Tileset_Interior Wood_Gnomenlied.png<>uid://4awj14jdld0q::::res://door_home.tscn<>uid://b5simc5sktia5::::res://img/homePak/kitchen furniture.png<>uid://cye18q7uhbq1q::::res://img/Christmas Tree Large Fantasy - Spritesheet.png
-node_2d.tscn::PackedScene::6050265188419330327::1734206626::0::1::::<><>::res://progectScript/menu/node_2d.gd<>uid://bx0upqfkc2cjq::::res://progektBg/parallax_background.tscn
+level_1.tscn::PackedScene::60819580545800361::1734248325::0::1::::<><>::uid://cxtj12hbn7sv2::::res://Player/fred.tscn<>res://progectScript/winterHome/animated_sprite_2d.gd<>uid://bcd3ha26vpvpp::::res://img/homePak/bedroom  furniture.png<>uid://ca0yp11d2q70o::::res://img/oak_woods_v1.0/oak_woods_tileset.png<>uid://bigo7hv7kfcog::::res://img/simpletablechairs_00/Table/Exports/default_chair_sprites.png<>uid://csmknbgr6ybnr::::res://progektBg/homebg.tscn<>uid://ciurs6l3pjpg1::::res://img/simpletablechairs_00/Table/kamin.png<>uid://dakdpnw3wfyk3::::res://img/homePak/Tileset_Interior Wood_Gnomenlied.png<>uid://4awj14jdld0q::::res://door_home.tscn<>uid://b5simc5sktia5::::res://img/homePak/kitchen furniture.png<>uid://cye18q7uhbq1q::::res://img/Christmas Tree Large Fantasy - Spritesheet.png<>uid://dcdxuqr886tue::::res://img/venok.png
+node_2d.tscn::PackedScene::6050265188419330327::1734248134::0::1::::<><>::res://progectScript/menu/node_2d.gd<>uid://bx0upqfkc2cjq::::res://progektBg/parallax_background.tscn
 winter_door.tscn::PackedScene::5182158422399281877::1734214499::0::1::::<><>::res://winter_doorScr.gd<>uid://b4jbh4ku4r2ic::::res://img/Winter Forest/Enviroment.png
 winter_doorScr.gd::GDScript::-1::1734213050::0::1::::<>Node2D<>::
-world.tscn::PackedScene::3083828587165845385::1734214534::0::1::::<><>::uid://cxtj12hbn7sv2::::res://Player/fred.tscn<>uid://b4jbh4ku4r2ic::::res://img/Winter Forest/Enviroment.png<>uid://btc663xxv0p28::::res://img/winter/global.png<>uid://c4q4s3pfy45na::::res://img/winter/assetsheet.png<>uid://t27qreorneng::::res://home_winter.tscn<>uid://cf3jnli4pp374::::res://winter_door.tscn
+world.tscn::PackedScene::3083828587165845385::1734248136::0::1::::<><>::uid://cxtj12hbn7sv2::::res://Player/fred.tscn<>uid://b4jbh4ku4r2ic::::res://img/Winter Forest/Enviroment.png<>uid://btc663xxv0p28::::res://img/winter/global.png<>uid://c4q4s3pfy45na::::res://img/winter/assetsheet.png<>uid://t27qreorneng::::res://home_winter.tscn<>uid://cf3jnli4pp374::::res://winter_door.tscn
 ::res://__MACOSX/::1734205546
 ._dg_end.tscn::PackedScene::-1::1734206642::0::1::::<><>::
 ._door_home.tscn::PackedScene::-1::1734214499::0::1::::<><>::
@@ -21,9 +21,9 @@ world.tscn::PackedScene::3083828587165845385::1734214534::0::1::::<><>::uid://cx
 ::res://__MACOSX/__MACOSX/__MACOSX/::1734243823
 ::res://__MACOSX/__MACOSX/oak_woods_v1.0/::1734205549
 ::res://__MACOSX/homePak/::1734205545
-::res://__MACOSX/img/::1734243823
+::res://__MACOSX/img/::1734243912
 ._Christmas Tree Large Fantasy - Spritesheet.png::CompressedTexture2D::6437353363171449992::1734150990::1734243912::0::::<><>::
-::res://__MACOSX/img/homePak/::1734243823
+::res://__MACOSX/img/homePak/::1734243912
 ._bathroom.png::CompressedTexture2D::4910827063742605543::1734150990::1734243912::0::::<><>::
 ._bedroom  furniture.png::CompressedTexture2D::3579906579940436389::1734150990::1734243912::0::::<><>::
 ._Door01.png::CompressedTexture2D::4804629841236943313::1734150990::1734243912::0::::<><>::
@@ -34,18 +34,18 @@ world.tscn::PackedScene::3083828587165845385::1734214534::0::1::::<><>::uid://cx
 ._new_shader.gdshader::Shader::-1::1734214538::0::1::::<><>::
 ._Tileset_Interior Wood_Gnomenlied.png::CompressedTexture2D::4415287483309360459::1734150990::1734243912::0::::<><>::
 ._walls.png::CompressedTexture2D::8520924223397224942::1734150990::1734243912::0::::<><>::
-::res://__MACOSX/img/oak_woods_v1.0/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/::1734243911
 ._node_2d.gd::GDScript::-1::1734150990::0::1::::<>RefCounted<>::
 ._node_2d.tscn::PackedScene::-1::1734206626::0::1::::<><>::
 ._oak_woods_tileset.png::CompressedTexture2D::8572878478577555955::1734150990::1734243911::0::::<><>::
 ._readme.TXT::TextFile::-1::1734150990::0::1::::<><>::
-::res://__MACOSX/img/oak_woods_v1.0/background/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/background/::1734243912
 ._background_layer_1.png::CompressedTexture2D::5820681152595315126::1734150990::1734243912::0::::<><>::
 ._background_layer_2.png::CompressedTexture2D::7879502473951910812::1734150990::1734243912::0::::<><>::
 ._background_layer_3.png::CompressedTexture2D::7090124923361547356::1734150990::1734243912::0::::<><>::
-::res://__MACOSX/img/oak_woods_v1.0/character/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/character/::1734243912
 ._char_blue.png::CompressedTexture2D::4487358157982680143::1734150990::1734243912::0::::<><>::
-::res://__MACOSX/img/oak_woods_v1.0/decorations/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/decorations/::1734243913
 ._fence_1.png::CompressedTexture2D::6128153890482250980::1734150990::1734243912::0::::<><>::
 ._fence_2.png::CompressedTexture2D::2700912143447331124::1734150990::1734243912::0::::<><>::
 ._grass_1.png::CompressedTexture2D::7017343964113823706::1734150990::1734243913::0::::<><>::
@@ -58,45 +58,45 @@ world.tscn::PackedScene::3083828587165845385::1734214534::0::1::::<><>::uid://cx
 ._shop.png::CompressedTexture2D::6334014491193297533::1734150990::1734243912::0::::<><>::
 ._shop_anim.png::CompressedTexture2D::5054896447338020961::1734150990::1734243912::0::::<><>::
 ._sign.png::CompressedTexture2D::2456843914362171935::1734150990::1734243912::0::::<><>::
-::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/::1734243911
 ._cover.png::CompressedTexture2D::1826645587507542229::1734150990::1734243911::0::::<><>::
 ._thumb.png::CompressedTexture2D::4968772619676240343::1734150990::1734243911::0::::<><>::
 ::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/Chair/::1734243823
-::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/Chair/Exports/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/Chair/Exports/::1734243912
 ._chair_black_8x15.png::CompressedTexture2D::8706447879469011970::1734150990::1734243912::0::::<><>::
 ._chair_darkwood_8x15.png::CompressedTexture2D::334343664125851195::1734150990::1734243912::0::::<><>::
 ._chair_lightwood_8x15.png::CompressedTexture2D::745499606309852050::1734150990::1734243912::0::::<><>::
 ._chair_white_8x15.png::CompressedTexture2D::1054632811777623678::1734150990::1734243912::0::::<><>::
 ::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/Table/::1734243823
-::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/Table/Exports/::1734243823
+::res://__MACOSX/img/oak_woods_v1.0/simpletablechairs_00/Table/Exports/::1734243912
 ._table_black_31x12.png::CompressedTexture2D::434600319812199328::1734150990::1734243912::0::::<><>::
 ._table_darkwood_31x12.png::CompressedTexture2D::8569442875940333525::1734150990::1734243910::0::::<><>::
 ._table_lightwood_31x12.png::CompressedTexture2D::7154672651828189710::1734150990::1734243910::0::::<><>::
 ._table_white_31x12.png::CompressedTexture2D::6236379151274997484::1734150990::1734243910::0::::<><>::
-::res://__MACOSX/img/simpletablechairs_00/::1734243823
+::res://__MACOSX/img/simpletablechairs_00/::1734243911
 ._cover.png::CompressedTexture2D::378740010251783265::1734150990::1734243911::0::::<><>::
 ._thumb.png::CompressedTexture2D::6934723904442765328::1734150990::1734243911::0::::<><>::
 ::res://__MACOSX/img/simpletablechairs_00/Chair/::1734243823
-::res://__MACOSX/img/simpletablechairs_00/Chair/Exports/::1734243823
+::res://__MACOSX/img/simpletablechairs_00/Chair/Exports/::1734243911
 ._chair_black_8x15.png::CompressedTexture2D::5392824630368916942::1734150990::1734243911::0::::<><>::
 ._chair_darkwood_8x15.png::CompressedTexture2D::6337470166606329693::1734150990::1734243911::0::::<><>::
 ._chair_lightwood_8x15.png::CompressedTexture2D::1109361301920665733::1734150990::1734243911::0::::<><>::
 ._chair_white_8x15.png::CompressedTexture2D::2244094701782881056::1734150990::1734243911::0::::<><>::
-::res://__MACOSX/img/simpletablechairs_00/Table/::1734243823
+::res://__MACOSX/img/simpletablechairs_00/Table/::1734243911
 ._kamin.png::CompressedTexture2D::7676743301812561205::1734150990::1734243911::0::::<><>::
-::res://__MACOSX/img/simpletablechairs_00/Table/Exports/::1734243823
+::res://__MACOSX/img/simpletablechairs_00/Table/Exports/::1734243911
 ._default_chair_sprites.png::CompressedTexture2D::6205797785282049141::1734150990::1734243911::0::::<><>::
 ._table_black_31x12.png::CompressedTexture2D::5105876435422883017::1734150990::1734243911::0::::<><>::
 ._table_darkwood_31x12.png::CompressedTexture2D::7380546089250588763::1734150990::1734243911::0::::<><>::
 ._table_lightwood_31x12.png::CompressedTexture2D::8536253633788577811::1734150990::1734243911::0::::<><>::
 ._table_white_31x12.png::CompressedTexture2D::2119455229576625434::1734150990::1734243911::0::::<><>::
-::res://__MACOSX/img/winter/::1734243823
+::res://__MACOSX/img/winter/::1734243911
 ._assetsheet.png::CompressedTexture2D::1718703122665501595::1734206683::1734243911::0::::<><>::
 ._global.png::CompressedTexture2D::8110078066060162648::1734206683::1734243911::0::::<><>::
 ._license.txt::TextFile::-1::1734206685::0::1::::<><>::
 ._read me.txt::TextFile::-1::1734206684::0::1::::<><>::
 ._SnowTiles.png::CompressedTexture2D::9129048868781415332::1734206682::1734243911::0::::<><>::
-::res://__MACOSX/img/Winter Forest/::1734243823
+::res://__MACOSX/img/Winter Forest/::1734243912
 ._Background 1.2.png::CompressedTexture2D::3231804794436756573::1734206709::1734243911::0::::<><>::
 ._Background 1.png::CompressedTexture2D::7944763063786721630::1734206711::1734243911::0::::<><>::
 ._Background 2.png::CompressedTexture2D::8384914081841712679::1734206710::1734243911::0::::<><>::
@@ -123,9 +123,16 @@ world.tscn::PackedScene::3083828587165845385::1734214534::0::1::::<><>::uid://cx
 ._bg_world.tscn::PackedScene::-1::1734212606::0::1::::<><>::
 ._homebg.tscn::PackedScene::-1::1734206643::0::1::::<><>::
 ._parallax_background.tscn::PackedScene::-1::1734206643::0::1::::<><>::
-::res://img/::1734206708
+::res://img/::1734248384
 Christmas Tree Large Fantasy - Spritesheet.png::CompressedTexture2D::6467269589451473212::1734150990::1734243915::1::::<><>::
-::res://img/homePak/::1734214538
+venok.png::CompressedTexture2D::7307265946509260384::1734247828::1734248325::1::::<><>::
+::res://img/buttons/::1734248384
+Exit button v1.png::CompressedTexture2D::4950420833423736071::1734248384::1734248384::1::::<><>::
+Exit button v2.png::CompressedTexture2D::1039377006092208881::1734248384::1734248384::1::::<><>::
+Play button.png::CompressedTexture2D::9170440120974700372::1734248384::1734248384::1::::<><>::
+Setting button.png::CompressedTexture2D::301508176026313948::1734248384::1734248384::1::::<><>::
+Shop button.png::CompressedTexture2D::6475107639769987137::1734248384::1734248384::1::::<><>::
+::res://img/homePak/::1734243914
 bathroom.png::CompressedTexture2D::877545651019203797::1734150990::1734243914::1::::<><>::
 bedroom  furniture.png::CompressedTexture2D::2534704123733035209::1734150990::1734243914::1::::<><>::
 Door01.png::CompressedTexture2D::4560304335120455296::1734150990::1734243914::1::::<><>::
@@ -136,18 +143,18 @@ livingroom furniture.png::CompressedTexture2D::800255389484773438::1734150990::1
 new_shader.gdshader::Shader::-1::1734214538::0::1::::<><>::
 Tileset_Interior Wood_Gnomenlied.png::CompressedTexture2D::7180115484597838680::1734150990::1734243914::1::::<><>::
 walls.png::CompressedTexture2D::5517776875306529688::1734150990::1734243914::1::::<><>::
-::res://img/oak_woods_v1.0/::1734206626
+::res://img/oak_woods_v1.0/::1734243913
 node_2d.gd::GDScript::-1::1734150990::0::1::::<>Node2D<>::
 node_2d.tscn::PackedScene::6050265188419330327::1734206626::0::1::::<><>::res://progectScript/menu/node_2d.gd<>uid://bx0upqfkc2cjq::::res://progektBg/parallax_background.tscn
 oak_woods_tileset.png::CompressedTexture2D::4825936211917737712::1734150990::1734243913::1::::<><>::
 readme.TXT::TextFile::-1::1734150990::0::1::::<><>::
-::res://img/oak_woods_v1.0/background/::1734206244
+::res://img/oak_woods_v1.0/background/::1734243914
 background_layer_1.png::CompressedTexture2D::5274192934431748334::1734150990::1734243914::1::::<><>::
 background_layer_2.png::CompressedTexture2D::9171516292580879185::1734150990::1734243914::1::::<><>::
 background_layer_3.png::CompressedTexture2D::1532519175543211350::1734150990::1734243914::1::::<><>::
-::res://img/oak_woods_v1.0/character/::1734206244
+::res://img/oak_woods_v1.0/character/::1734243914
 char_blue.png::CompressedTexture2D::1348986099745407727::1734150990::1734243914::1::::<><>::
-::res://img/oak_woods_v1.0/decorations/::1734206244
+::res://img/oak_woods_v1.0/decorations/::1734243915
 fence_1.png::CompressedTexture2D::8010179652249673709::1734150990::1734243914::1::::<><>::
 fence_2.png::CompressedTexture2D::4895966722744013566::1734150990::1734243914::1::::<><>::
 grass_1.png::CompressedTexture2D::662719762243526094::1734150990::1734243914::1::::<><>::
@@ -160,45 +167,45 @@ rock_3.png::CompressedTexture2D::211832799058961826::1734150990::1734243915::1::
 shop.png::CompressedTexture2D::4785501542004884433::1734150990::1734243915::1::::<><>::
 shop_anim.png::CompressedTexture2D::914961218804172260::1734150990::1734243915::1::::<><>::
 sign.png::CompressedTexture2D::8485919005886253917::1734150990::1734243915::1::::<><>::
-::res://img/oak_woods_v1.0/simpletablechairs_00/::1734206244
+::res://img/oak_woods_v1.0/simpletablechairs_00/::1734243914
 cover.png::CompressedTexture2D::4962560944792729939::1734150990::1734243914::1::::<><>::
 thumb.png::CompressedTexture2D::1122809052985328897::1734150990::1734243913::1::::<><>::
 ::res://img/oak_woods_v1.0/simpletablechairs_00/Chair/::1734205574
-::res://img/oak_woods_v1.0/simpletablechairs_00/Chair/Exports/::1734206244
+::res://img/oak_woods_v1.0/simpletablechairs_00/Chair/Exports/::1734243915
 chair_black_8x15.png::CompressedTexture2D::4803202119713032613::1734150990::1734243915::1::::<><>::
 chair_darkwood_8x15.png::CompressedTexture2D::778808350441444194::1734150990::1734243915::1::::<><>::
 chair_lightwood_8x15.png::CompressedTexture2D::5510661864147410291::1734150990::1734243915::1::::<><>::
 chair_white_8x15.png::CompressedTexture2D::7906543686717645342::1734150990::1734243915::1::::<><>::
 ::res://img/oak_woods_v1.0/simpletablechairs_00/Table/::1734205574
-::res://img/oak_woods_v1.0/simpletablechairs_00/Table/Exports/::1734206244
+::res://img/oak_woods_v1.0/simpletablechairs_00/Table/Exports/::1734243915
 table_black_31x12.png::CompressedTexture2D::3687300665306221974::1734150990::1734243915::1::::<><>::
 table_darkwood_31x12.png::CompressedTexture2D::3226766952002758330::1734150990::1734243913::1::::<><>::
 table_lightwood_31x12.png::CompressedTexture2D::3784042408332227680::1734150990::1734243913::1::::<><>::
 table_white_31x12.png::CompressedTexture2D::2756815522725464043::1734150990::1734243913::1::::<><>::
-::res://img/simpletablechairs_00/::1734206269
+::res://img/simpletablechairs_00/::1734243914
 cover.png::CompressedTexture2D::6642403523774500106::1734150990::1734243914::1::::<><>::
 thumb.png::CompressedTexture2D::7613918907077447143::1734150990::1734243913::1::::<><>::
 ::res://img/simpletablechairs_00/Chair/::1734205574
-::res://img/simpletablechairs_00/Chair/Exports/::1734206269
+::res://img/simpletablechairs_00/Chair/Exports/::1734243913
 chair_black_8x15.png::CompressedTexture2D::4319156715936788385::1734150990::1734243913::1::::<><>::
 chair_darkwood_8x15.png::CompressedTexture2D::1834381627874880611::1734150990::1734243913::1::::<><>::
 chair_lightwood_8x15.png::CompressedTexture2D::5794573215268798463::1734150990::1734243913::1::::<><>::
 chair_white_8x15.png::CompressedTexture2D::1710356246457995961::1734150990::1734243913::1::::<><>::
-::res://img/simpletablechairs_00/Table/::1734206269
+::res://img/simpletablechairs_00/Table/::1734243913
 kamin.png::CompressedTexture2D::5376705651248285978::1734150990::1734243913::1::::<><>::
-::res://img/simpletablechairs_00/Table/Exports/::1734206269
+::res://img/simpletablechairs_00/Table/Exports/::1734243913
 default_chair_sprites.png::CompressedTexture2D::2961225284197245938::1734150990::1734243913::1::::<><>::
 table_black_31x12.png::CompressedTexture2D::8084337192538298317::1734150990::1734243913::1::::<><>::
 table_darkwood_31x12.png::CompressedTexture2D::8158286124932310480::1734150990::1734243913::1::::<><>::
 table_lightwood_31x12.png::CompressedTexture2D::3514063836623813506::1734150990::1734243913::1::::<><>::
 table_white_31x12.png::CompressedTexture2D::1863237657674040034::1734150990::1734243913::1::::<><>::
-::res://img/winter/::1734206703
+::res://img/winter/::1734243913
 assetsheet.png::CompressedTexture2D::6843142308120907642::1734206683::1734243913::1::::<><>::
 global.png::CompressedTexture2D::3726076561969032363::1734206683::1734243913::1::::<><>::
 license.txt::TextFile::-1::1734206685::0::1::::<><>::
 read me.txt::TextFile::-1::1734206684::0::1::::<><>::
 SnowTiles.png::CompressedTexture2D::7319366940004849091::1734206682::1734243913::1::::<><>::
-::res://img/Winter Forest/::1734206713
+::res://img/Winter Forest/::1734243914
 Background 1.2.png::CompressedTexture2D::515247374758721420::1734206709::1734243914::1::::<><>::
 Background 1.png::CompressedTexture2D::1243439837275349537::1734206711::1734243914::1::::<><>::
 Background 2.png::CompressedTexture2D::3771832538048567852::1734206710::1734243914::1::::<><>::
@@ -206,9 +213,9 @@ Background 3.png::CompressedTexture2D::5270394700019157666::1734206710::17342439
 Background 4.png::CompressedTexture2D::301162058426285324::1734206712::1734243914::1::::<><>::
 Background 5.png::CompressedTexture2D::5325527706370239677::1734206712::1734243914::1::::<><>::
 Enviroment.png::CompressedTexture2D::4440551306106039126::1734206713::1734243914::1::::<><>::
-::res://Player/::1734212606
+::res://Player/::1734248325
 fred.gd::GDScript::-1::1734150990::0::1::::<>CharacterBody2D<>::
-fred.tscn::PackedScene::6427002260972680029::1734212606::0::1::::<><>::uid://thpusgtq0lil::::res://img/oak_woods_v1.0/character/char_blue.png<>res://Player/fred.gd
+fred.tscn::PackedScene::6427002260972680029::1734248136::0::1::::<><>::uid://thpusgtq0lil::::res://img/oak_woods_v1.0/character/char_blue.png<>res://Player/fred.gd
 ::res://progectScript/::1734206615
 parallax_background.gd::GDScript::-1::1734150990::0::1::::<>ParallaxBackground<>::
 ::res://progectScript/menu/::1734206361
