@@ -1,0 +1,63 @@
+[gd_scene load_steps=3 format=3 uid="uid://csg18pfjwup80"]
+
+[ext_resource type="Script" path="res://progectScript/menu/node_2d.gd" id="1_m4bii"]
+[ext_resource type="PackedScene" uid="uid://bx0upqfkc2cjq" path="res://progektBg/parallax_background.tscn" id="2_vnpuk"]
+
+[node name="menu" type="Node2D"]
+process_mode = 3
+position = Vector2(558, 313)
+script = ExtResource("1_m4bii")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_top = -121.0
+offset_bottom = 121.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+
+[node name="play" type="Button" parent="MarginContainer/VBoxContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(110, 25)
+layout_mode = 2
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_colors/font_color = Color(0.308816, 0.56827, 0.716128, 1)
+theme_override_font_sizes/font_size = 27
+text = "Play"
+
+[node name="shop" type="Button" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(110, 25)
+layout_mode = 2
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 27
+text = "Shop"
+
+[node name="settings" type="Button" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(273, 70)
+layout_mode = 2
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 27
+text = "Settings"
+
+[node name="exit" type="Button" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(273, 70)
+layout_mode = 2
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 27
+text = "Exit"
+
+[node name="bg" parent="MarginContainer/VBoxContainer" instance=ExtResource("2_vnpuk")]
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/exit" to="." method="_on_exit_pressed"]

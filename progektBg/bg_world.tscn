@@ -1,0 +1,56 @@
+[gd_scene load_steps=7 format=3 uid="uid://doepfovap0rd5"]
+
+[ext_resource type="Texture2D" uid="uid://ch4ywsys8f3kb" path="res://img/Winter Forest/Background 5.png" id="1_6bfpv"]
+[ext_resource type="Texture2D" uid="uid://ej5dh65ft1b1" path="res://img/Winter Forest/Background 4.png" id="2_mef1u"]
+[ext_resource type="Texture2D" uid="uid://chdavpc3plois" path="res://img/Winter Forest/Background 3.png" id="3_madwe"]
+[ext_resource type="Texture2D" uid="uid://bt0dsbv0jpvhc" path="res://img/Winter Forest/Background 2.png" id="4_8n8rc"]
+[ext_resource type="Texture2D" uid="uid://hlubwviw3uuu" path="res://img/Winter Forest/Background 1.2.png" id="5_7se0a"]
+[ext_resource type="Texture2D" uid="uid://rylji7og326x" path="res://img/Winter Forest/Background 1.png" id="6_pvj6t"]
+
+[node name="bgWorld" type="Node2D"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+scale = Vector2(0.5, 0.5)
+transform = Transform2D(0.5, 0, 0, 0.5, 0, 0)
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Background5" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2(1149.5, 645.5)
+scale = Vector2(5.7425, 4.29667)
+texture = ExtResource("1_6bfpv")
+
+[node name="ParallaxLayer2" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Background4" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer2"]
+position = Vector2(1151, 628)
+scale = Vector2(5.745, 4.34667)
+texture = ExtResource("2_mef1u")
+
+[node name="ParallaxLayer3" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Background3" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer3"]
+position = Vector2(1157.5, 636.5)
+scale = Vector2(5.7725, 4.22333)
+texture = ExtResource("3_madwe")
+
+[node name="ParallaxLayer4" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Background2" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer4"]
+position = Vector2(1159.5, 642.5)
+scale = Vector2(5.7925, 4.25)
+texture = ExtResource("4_8n8rc")
+
+[node name="ParallaxLayer5" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Background1_2" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer5"]
+position = Vector2(1156.25, 643.75)
+scale = Vector2(5.77875, 4.20167)
+texture = ExtResource("5_7se0a")
+
+[node name="ParallaxLayer6" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Background1" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer6"]
+position = Vector2(1165.75, 635.75)
+scale = Vector2(5.80125, 4.20167)
+texture = ExtResource("6_pvj6t")

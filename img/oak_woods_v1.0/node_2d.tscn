@@ -1,0 +1,58 @@
+[gd_scene load_steps=3 format=3 uid="uid://csg18pfjwup80"]
+
+[ext_resource type="Script" path="res://progectScript/menu/node_2d.gd" id="1_m4bii"]
+[ext_resource type="PackedScene" uid="uid://bx0upqfkc2cjq" path="res://progektBg/parallax_background.tscn" id="2_vnpuk"]
+
+[node name="menu" type="Node2D"]
+script = ExtResource("1_m4bii")
+
+[node name="play" type="Button" parent="."]
+clip_contents = true
+custom_minimum_size = Vector2(110, 25)
+offset_left = 444.0
+offset_top = 177.0
+offset_right = 717.0
+offset_bottom = 247.0
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_colors/font_color = Color(0.308816, 0.56827, 0.716128, 1)
+theme_override_font_sizes/font_size = 27
+text = "Play"
+
+[node name="shop" type="Button" parent="."]
+custom_minimum_size = Vector2(110, 25)
+offset_left = 444.0
+offset_top = 274.0
+offset_right = 717.0
+offset_bottom = 344.0
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 27
+text = "Shop"
+
+[node name="settings" type="Button" parent="."]
+custom_minimum_size = Vector2(273, 70)
+offset_left = 444.0
+offset_top = 371.0
+offset_right = 717.0
+offset_bottom = 441.0
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 27
+text = "Settings"
+
+[node name="exit" type="Button" parent="."]
+custom_minimum_size = Vector2(273, 70)
+offset_left = 445.0
+offset_top = 467.0
+offset_right = 718.0
+offset_bottom = 537.0
+tooltip_text = "Play"
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 27
+text = "Exit"
+
+[node name="bg" parent="." instance=ExtResource("2_vnpuk")]
+
+[connection signal="pressed" from="play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="exit" to="." method="_on_exit_pressed"]
